@@ -1,0 +1,59 @@
+.body {
+  font-size: 15px;
+}
+
+.card-holder {
+  margin: 2em 0;
+}
+
+.card {
+  font-family: -apple-system, BlinkMacSystemFont, 'Open Sans', sans-serif;
+  font-size: 3em;
+  /*font-weight: 800;*/
+  height: 3rem;
+  width: 80rem !important;
+  padding: 0.5em 1em;
+  border-radius: 0.25em;
+  display: table-cell;
+  vertical-align: middle;
+  letter-spacing: -2px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.card .subtle {
+  color: #000;
+  font-size: 0.5em;
+  font-weight: 400;
+  letter-spacing: -1px;
+}
+
+.card i {
+  font-size: 3em;
+}
+.input-group-addon {
+  border-width: 2px;
+}
+
+.bg-purple {
+    color: #fff;
+    background:
+     -webkit-linear-gradient(270deg, #fff 40%, rgba(0, 0, 0, 0) 30%), 
+    -webkit-radial-gradient(farthest-corner at 0% 0%, #0099FF 70%, #0099FF 70%);
+    background: 
+    -o-linear-gradient(270deg, #fff 40%, rgba(0, 0, 0, 0) 30%),
+     -o-radial-gradient(farthest-corner at 0% 0%, #0099FF 70%, #0099FF 70%);
+    background:
+     -moz-linear-gradient(270deg, #fff 40%, rgba(0, 0, 0, 0) 30%),
+      -moz-radial-gradient(farthest-corner at 0% 0%, #0099FF 70%, #0099FF 70%);
+    background:
+     linear-gradient(270deg, #fff 40%, rgba(0, 0, 0, 0) 30%),
+      radial-gradient(farthest-corner at 0% 0%, #0099FF 70%, #0099FF 70%);
+}
+
+.Div {
+height :5em;
+background-color:;
+display:flex;
+}
+
+
